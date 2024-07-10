@@ -17,7 +17,7 @@ Um simples aplicativo de gerenciamento de livros implementado em Python usando T
 
 1. Clone o repositório para o seu ambiente local:
 
-git clone https://github.com/seu_usuario/gerenciador-de-livros.git
+git clone https://github.com/leandroo65/gerenciador-de-livros.git
 
 
 ## Contribuição
