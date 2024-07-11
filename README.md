@@ -1,4 +1,4 @@
-# Gerenciador de Livros com Tkinter e SQLite
+# Gerenciador de Biblioteca BookManager com Tkinter e SQLite
 
 Um simples aplicativo de gerenciamento de livros implementado em Python usando Tkinter para a interface gráfica e SQLite para o armazenamento de dados.
 
